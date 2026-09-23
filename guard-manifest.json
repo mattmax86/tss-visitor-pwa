@@ -1,7 +1,9 @@
 {
+  "id": "/tss-visitor-pwa/tss-guard",
   "name": "Taman Saujana Sekata Guard",
   "short_name": "TSS Guard",
   "start_url": "/tss-visitor-pwa/guard.html",
+  "scope": "/tss-visitor-pwa/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#315b24",
