@@ -1,7 +1,7 @@
 {
   "name": "Taman Saujana Sekata Visitor",
   "short_name": "TSS Visitor",
-  "start_url": "https://script.google.com/macros/s/AKfycbwMv4rqXsujw1iMovVM4ugwZnS075JqP97xhjeiGiAAgHYKxXuxTq0gPot9D2OkxDAGhA/exec?page=resident",
+  "start_url": "/tss-visitor-pwa/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#315b24",
